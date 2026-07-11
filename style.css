@@ -1,0 +1,542 @@
+.noto-serif-normal {
+    font-family: "Noto Serif", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+
+.font-weight-bold {
+    font-weight: 700;
+}
+
+
+.cart {
+    font-weight: 500;
+}
+
+.text-grey {
+    color: #8987A1;
+}
+
+.text-dark-gray {
+    color: #252432;
+}
+
+nav img {
+    width: 135px;
+    height: 82px;
+
+}
+
+.word-color {
+    color: #E95A08;
+}
+
+
+.display-flex {
+    display: flex;
+}
+
+.display-grid {
+    display: grid;
+}
+
+.btn-primary {
+    background-color: #E95A08;
+    font-family: inter;
+    color: white;
+    width: 270px;
+    font-family: inter;
+    font-weight: 600;
+    font-size: 1 rem;
+    height: 50px;
+}
+
+
+nav {
+
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-link {
+    list-style: none;
+}
+
+.nav-item {
+    text-decoration: none;
+    margin-right: 48px;
+
+}
+
+
+nav,
+.hero-section,
+.our-plants,
+.plants,
+.plants2,
+.join,
+.footer {
+    width: 1140px;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.hero-section {
+
+    margin-top: 114.4px;
+}
+
+.fresh-flower {
+    width: 570px;
+}
+
+.fresh-flower h1 {
+    font-size: 4.0625rem;
+    font-family: Noto Serif;
+}
+
+.fresh-flower p {
+
+    margin-top: 13px;
+    font-size: 1.375rem;
+    font-family: inter;
+    font-weight: 400;
+}
+
+
+.our-plants {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.plant-article {
+    text-align: center;
+
+}
+
+.plant-article h3 {
+    margin-top: 120px;
+    font-family: note serif;
+    font-size: 3.125rem;
+}
+
+.plant-article p {
+
+    font-family: inter;
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 1.375rem;
+}
+
+.plants-card {
+    margin-top: 49px;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.flower-pot {
+    width: 270px;
+    height: 484.94px;
+    margin-top: 30px;
+    margin-right: 20px;
+}
+
+
+
+.flower-pot h5 {
+    margin-top: 30px;
+    font-family: inter;
+    font-weight: 500;
+    font-size: 1.375rem;
+}
+
+.flower-pot p {
+    margin-top: 10px;
+    margin-bottom: 30px;
+    font-family: inter;
+    font-size: 1.375rem;
+    font-weight: 700;
+}
+
+.text {
+    display: flex;
+    /* justify-content: center; */
+    flex-direction: column;
+    align-items: center;
+}
+
+.plants {
+    position: relative;
+}
+
+.seller img {
+    width: 286px;
+    height: 286px;
+    position: absolute;
+    top: -150px;
+    left: 347px;
+
+}
+
+.plant-lover {
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 210.12px;
+}
+
+.plant-lover img {
+    width: 540px;
+    height: 597px;
+}
+
+
+
+.lover-article {
+    width: 540px;
+    height: 521px;
+
+}
+
+
+.lover-article h4 {
+    font-family: noto serif;
+    font-size: 3.25rem;
+    font-weight: 700;
+
+}
+
+.lover-article p {
+    font-family: inter;
+    font-weight: 400;
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 1.1rem;
+    margin-top: 20px;
+}
+
+
+.latest-deal {
+    margin-top: 133.87px;
+    text-align: center;
+}
+
+.latest-deal h4 {
+    font-family: noto serif;
+    font-size: 3.125rem;
+    font-weight: 700;
+}
+
+.latest-deal p {
+    font-family: inter;
+    font-size: 1.375rem;
+    font-weight: 400;
+    color: rgba(0, 0, 0, 0.5);
+    margin-bottom: 120.06px;
+}
+
+
+.big {
+    justify-content: space-between;
+}
+
+.small-2 {
+    margin-top: 25px;
+}
+
+
+.small-1,
+.small-2,
+.big2 {
+    position: relative;
+}
+
+.small-1 img,
+.small-2 img,
+.big2 img {
+    border-radius: 14px;
+    filter: brightness(50%);
+
+}
+
+
+.off,
+.off2 {
+    position: absolute;
+    text-align: center;
+    justify-self: center;
+    color: white;
+
+
+
+}
+
+
+.off {
+    margin: 60px;
+}
+
+
+.off2 {
+    margin: 172px;
+
+}
+
+
+.off h4,
+.off2 h4 {
+    font-family: noto serif;
+    font-weight: 700;
+}
+
+.inter {
+    font-family: inter;
+    text-decoration: underline;
+    margin-top: 15px;
+}
+
+
+.join {
+    position: relative;
+    margin-top: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.join h3 {
+    position: absolute;
+    font-family: noto serif;
+    font-weight: 700;
+    font-size: 3.125rem;
+    color: white;
+
+}
+
+form {
+    display: none;
+}
+
+
+
+
+.footer-child {
+
+    /* background-color: red; */
+    width: 1000px;
+    margin: 50px auto;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.child2 li,
+.child3 li {
+    list-style: none;
+    line-height: 40px;
+}
+
+.child2 a,
+.child3 a {
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.5);
+
+}
+
+
+.child4 img {
+    margin-right: 24px;
+    width: 36px;
+    height: 36px;
+    ;
+
+}
+
+.child1 {
+    font-size: 1.375rem;
+}
+
+
+@media screen and (max-width:576px) {
+    .hidden-link {
+        display: none;
+    }
+
+    nav img {
+        width: 63px;
+        height: 38px;
+    }
+
+    nav,
+    .plants {
+        width: 361px;
+
+    }
+
+    .only-cart {
+        font-size: 1.2rem;
+        margin-top: 7px;
+        margin-right: 20px;
+        font-weight: 400;
+    }
+
+    .ri-shopping-cart-line {
+        font-size: 1.5rem;
+
+    }
+
+
+
+    .hero-section {
+        flex-direction: column-reverse;
+    }
+
+
+    .image1 {
+        width: 430px;
+    }
+
+    .our-plants,
+    .latest-deal,
+    .plants2 {
+        width: 393px;
+    }
+
+    .fresh-flower {
+        padding-left: 16px;
+        padding-right: 16px;
+        padding-top: 28px;
+        width: 361px;
+    }
+
+    .fresh-flower h1,
+    .our-plants h3,
+    .latest-deal h4,
+    .lover-article h4 {
+        font-size: 1.5rem;
+    }
+
+    .fresh-flower p,
+    .our-plants p,
+    .latest-deal p,
+    .lover-article p {
+        width: 360px;
+        font-size: 0.875rem;
+    }
+
+    .seller {
+        display: none;
+    }
+
+    .plant-lover {
+        flex-direction: column;
+    }
+
+    .plant-lover img {
+        width: 358px;
+        height: 396px;
+    }
+
+    .lover-article {
+        margin-top: 18px;
+        margin-left: 17px;
+        margin-right: 15px;
+        width: 361px;
+        /* height: 234px; */
+    }
+
+    .lover-article br {
+        display: none;
+    }
+
+    .plants-card {
+        width: 362px;
+        margin: 0 auto;
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .flower-pot {
+        text-align: center;
+        width: 171px;
+    }
+
+    .btn-primary {
+        width: 171px;
+    }
+
+    .latest-deal br,
+    .our-plants br {
+        display: none;
+    }
+
+
+    .big {
+        margin: 0 auto;
+        width: 361px;
+        flex-direction: column;
+
+
+    }
+
+    .small-1,
+    .small-2,
+    .big2 {
+        width: 361px;
+        margin-top: 20px;
+
+    }
+
+    .join {
+        width: 393px;
+
+    }
+
+    .join h3 {
+        font-size: 1.25rem;
+    }
+
+    form {
+        border: none;
+        margin-top: 90px;
+        height: 50px;
+        position: absolute;
+        background-color: #ffffff;
+        font-size: 1rem;
+        display: flex;
+
+    }
+
+    form input {
+        padding: 20px;
+        width: 218px;
+    }
+
+    .sub {
+
+        width: 103px;
+        background-color: #E95A08;
+    }
+
+    .footer-child {
+        width: 359px;
+        flex-direction: column;
+    }
+
+    .child1 p {
+        font-size: 1rem;
+    }
+
+    .child1 img {
+        width: 180px;
+    }
+
+    .child1 p br {
+        display: none;
+    }
+
+    .child4 {
+        margin-top: 20px;
+    }
+
+
+
+}
