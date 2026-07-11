@@ -6,7 +6,7 @@ A clean and elegant flower shop landing page built with HTML5 and CSS3. This pro
 
 ## 🚀 Live Demo
 
-Coming Soon (GitHub Pages)
+(https://chandrimabarua.github.io/flowers-website/)
 
 ---
 
